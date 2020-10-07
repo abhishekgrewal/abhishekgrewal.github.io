@@ -7,21 +7,21 @@ papers:
 
   - title: "Probing the Magnetism of Topological End States in 5-Armchair Graphene Nanoribbons"
     authors: "Lawrence, J., Brandimarte, P., Berdonces-Layunta, A., Mohammed, M. S. G., <b>Grewal, A.</b>, Leon, C. C., Sánchez-Portal, D., and de Oteyza, D. G."
-    venue: "<a href="https://pubs.acs.org/doi/10.1021/acsnano.9b10191"><i>ACS Nano<i/> 2020, 14 (4), 4499-4508"
+    venue: "<a href="https://pubs.acs.org/doi/10.1021/acsnano.9b10191"><i>ACS Nano<i/> 2020, 14 (4), 4499-4508</a>"
     selected: n
 
   - title: "Single Photon Emission from a Plasmonic Light Source Driven by a Local Field-Induced Coulomb Blockade."
     authors: "Leon, C. C., Gunnarsson, O., de Oteyza, D. G., Rosławska, A., Merino, P., <b>Grewal, A.<b/>, Kuhnke, K., and Kern, K."
-    venue: "<a href="https://pubs.acs.org/doi/10.1021/acsnano.9b09299"><i>ACS Nano<i/> 2020, 14 (4), 4216–4223"
+    venue: "<a href="https://pubs.acs.org/doi/10.1021/acsnano.9b09299"><i>ACS Nano<i/> 2020, 14 (4), 4216–4223</a>"
     selected: n
 
   - title: "A Single Hydrogen Molecule as an Intensity Chopper in an Electrically Driven Plasmonic Nanocavity"
     authors: "Merino P., Rosławska, A., Leon, C. C., <b>Grewal, A.<b/>, Große, C., Gonzalez, C., Kuhnke, K., and Kern, K."
-    venue: "<a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.8b03753"><i>Nano Lett.<i/> 2019, 19 (1), 235–241"
+    venue: "<a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.8b03753"><i>Nano Lett.<i/> 2019, 19 (1), 235–241</a>"
     selected: n
 
   - title: "Photon super-bunching from a generic tunnel-junction"
     authors: "Leon, C. C.<sup>‡</sup>, Rosławska, A.<sup>‡</sup>, <b>Grewal, A.<b/>, Gunnarsson, O., Kuhnke, K., and Kern, K."
-    venue: "<i>Sci. Adv.<i/> 2019, 5: eaav4986"
-    slides: "/assets/publications/2014_item_cold_start/slides.pdf"
+    venue: "<a href="https://advances.sciencemag.org/content/5/5/eaav4986?intcmp=trendmd-adv"><i>Sci. Adv.<i/> 2019, 5: eaav4986</a>"
+    slides: "/assets/publications/dpg 03042019.pdf"
     selected: y
