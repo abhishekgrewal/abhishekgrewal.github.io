@@ -10,11 +10,9 @@ papers:
     venue: ""<a href="https://pubs.acs.org/doi/10.1021/acsnano.9b10191"><i>ACS Nano<i/> 2020, 14 (4), 4499-4508."
     selected: n
 
-  - title: "Human Atlas: A Tool for Mapping Social Networks."
-    authors: "<b>Martin Saveski</b>, Eric Chu, Soroush Vosoughi, Deb Roy"
-    venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
-    paper_pdf: "/assets/publications/2016_human_atlas/paper.pdf"
-    video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
+  - title: "Single Photon Emission from a Plasmonic Light Source Driven by a Local Field-Induced Coulomb Blockade."
+    authors: "Leon, C. C., Gunnarsson, O., de Oteyza, D. G., Rosławska, A., Merino, P., <b>Grewal, A.<b/>, Kuhnke, K., and Kern, K."
+    venue: ""<a href="https://pubs.acs.org/doi/10.1021/acsnano.9b09299"><i>ACS Nano<i/> 2020, 14 (4), 4216–4223."
     selected: n
 
   - title: "Topic Modeling in Twitter: Aggregating Tweets by Conversations"
