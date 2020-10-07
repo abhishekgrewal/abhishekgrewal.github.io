@@ -1,6 +1,6 @@
-# Abhishek Grewal's Website (based on msaveski/www_personal)
+## Abhishek Grewal's Website (based on msaveski/www_personal)
 
-## Updates guide
+### Updates guide
 Change one of the files in `_data`, unless you are changing the look of the website.
 
 Test changes with:
@@ -17,7 +17,7 @@ mkdir public_html
 ./__deploy.sh
 ```
 
-## External Libraries
+### External Libraries
 - Framework: [Jekyll](http://jekyllrb.com/)
 - CSS
   - [Skeleton](getskeleton.com)
