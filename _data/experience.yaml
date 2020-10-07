@@ -14,7 +14,7 @@ experiences:
 - place: "EPFL"
   time: "2018 - now"
   title: "Ph.D. Student"
-  subtitle: "Single molecule nanooptics"
+  subtitle: "Nanoscale Science Lab"
   category: "school"
 
 - place: "MPI FKF"
@@ -23,7 +23,7 @@ experiences:
   subtitle: "STM/AFM on 2D materials"
   category: "work"
 
-- place: "Universit\"at Stuttgart"
+- place: "Universit\"{a}t Stuttgart"
   time: "Oct 2015-Nov 2017"
   title: "M.Sc. Physics"
   subtitle: "Experimental condensed matter physics"
