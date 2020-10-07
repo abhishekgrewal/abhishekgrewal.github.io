@@ -36,13 +36,19 @@ experiences:
   category: "work"
 
 - place: "University of Delhi"
-  time: "Sep 2011 – Aug 2013"
-  title: "M.Sc. Student"
+  time: "Sep 2014 – Apr 2015"
+  title: "Research Assistant"
   subtitle: "Masters in Data Mining and Knowledge Management <br/> Year 1: University Pierre et Marie Curie <br/> Year 2: Universitat Politecnica de Catalunya <br/>"
-  category: "school"
+  category: "work"
+  
+  - place: "University of Delhi"
+  time: "Sep 2014 – Apr 2015"
+  title: "Research Assistant"
+  subtitle: "Masters in Data Mining and Knowledge Management <br/> Year 1: University Pierre et Marie Curie <br/> Year 2: Universitat Politecnica de Catalunya <br/>"
+  category: "work"
 
 - place: "University of Delhi"
   time: "Aug 2012 - May 2015"
   title: "B.Sc. Physics"
-  subtitle: "Physics <br/> First Class Honours"
+  subtitle: "First Class Honours"
   category: "school"
