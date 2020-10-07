@@ -1,29 +1,16 @@
 papers:
 
-  - title: "Testing for Arbitrary Interference on Experimentation Platforms."
-    authors: "Jean Pouget-Abadie, Guillaume Saint-Jacques<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
+  - title: "Atomic-Scale Dynamics Probed by Photon Correlations."
+    authors: "Ros\l{}awska, A.<sup>‡</sup>, Leon, C. C.<sup>‡</sup>, Grewal, A., Merino, P., Kuhnke K., and Kern, K., <b>Martin Saveski<sup>‡</sup></b>, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
     venue: "Biometrika. 2019."
     paper_pdf: "/assets/publications/2019_biometrika/paper.pdf"
     selected: y
-
-  - title: "Observational Causal Inference Using Network Information."
-    authors: "Yan Leng, <b>Martin Saveski</b>, Alex ‘Sandy’ Pentland, Dean Eckles"
-    venue: "NeurIPS'19, Workshop on Graph Representation Learning. 2019."
-    selected: n
 
   - title: "Me, My Echo Chamber, and I: Introspection on Social Media Polarization."
     authors: "Nabeel Gillani, Ann Yuan, <b>Martin Saveski</b>, Soroush Vosoughi, Deb Roy"
     venue: "WWW'18: International Conference on the World Wide Web. 2018. <b>(Honarable mention)</b>"
     paper_pdf: "/assets/publications/2018_social_mirror/paper.pdf"
     video: "https://drive.google.com/file/d/0B9-P1m1JkZA7UTRuMUFWcTNueXM/view"
-    selected: y
-
-  - title: "Detecting Network Effects: Randomizing Over Randomized Experiments."
-    authors: "<b>Martin Saveski<sup>‡</sup></b>, Jean Pouget-Abadie<sup>‡</sup>, Guillaume Saint-Jacques, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
-    venue: "KDD'17: International Conference on Knowledge Discovery and Data Mining. 2017. (Research Track)"
-    paper_pdf: "/assets/publications/2017_detecting_network_effects/paper.pdf"
-    slides: "/assets/publications/2017_detecting_network_effects/slides.pdf"
-    video: "https://www.youtube.com/watch?v=1v5_CzdRVAc"
     selected: y
 
   - title: "Human Atlas: A Tool for Mapping Social Networks."
@@ -75,21 +62,9 @@ papers:
     paper_pdf: "/assets/publications/2014_joint_semi_supervised_learning/paper.pdf"
     selected: y
 
-  - title: "Web Services for Stream Mining: A Stream-Based Active Learning Use Case"
-    authors: "<b>Martin Saveski</b>, Miha Grčar"
-    venue: "ECML'11, Workshop on Planning to Learn and Service-Oriented Knowledge Discovery. 2011."
-    paper_pdf: "/assets/publications/2011_active_learning/paper.pdf"
-    selected: n
-
   - title: "Automatic Construction of Wordnets by Using Machine Translation and Language Modeling"
     authors: "<b>Martin Saveski</b>, Igor Trajkovski"
     venue: "In Proceedings of Seventh Language Technologies Conference. 2010."
     paper_pdf: "/assets/publications/2010_wordnet_construction/paper.pdf"
     slides: "/assets/publications/2010_wordnet_construction/slides.pdf"
     selected: y
-
-  - title: "Development of an English-Macedonian Machine Readable Dictionary by Using Parallel Corpora"
-    authors: "<b>Martin Saveski</b>, Igor Trajkovski"
-    venue: "Proceedings of ICT Innovations Conference. 2010."
-    paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
-    selected: n
