@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+source:      .
+destination: ./_site
+includes:    ./_includes
+baseurl: /~msaveski
+
+collections:
+  projects:
+    output: true
