@@ -1,8 +1,0 @@
-source:      .
-destination: ./_site
-includes:    ./_includes
-baseurl: /~abhishekgrewal
-
-collections:
-  projects:
-    output: true
