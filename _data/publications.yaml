@@ -1,9 +1,8 @@
 papers:
 
   - title: "Atomic-Scale Dynamics Probed by Photon Correlations."
-    authors: "Ros\l{}awska, A.<sup>‡</sup>, Leon, C. C.<sup>‡</sup>, Grewal, A., Merino, P., Kuhnke K., and Kern, K., <b>Martin Saveski<sup>‡</sup></b>, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
-    venue: "Biometrika. 2019."
-    paper_pdf: "/assets/publications/2019_biometrika/paper.pdf"
+    authors: "Rosławska, A.<sup>‡</sup>, Leon, C. C.<sup>‡</sup>, <b>Grewal, A.</b>, Merino, P., Kuhnke K., and Kern, K."
+    venue: "<i>ACS Nano<i/> 2020, 14 (6), 6366-6375."
     selected: y
 
   - title: "Me, My Echo Chamber, and I: Introspection on Social Media Polarization."
