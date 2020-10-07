@@ -1,10 +1,8 @@
 source:      .
 destination: ./_site
 includes:    ./_includes
-baseurl: /~msaveski
+baseurl: /~abhishekgrewal
 
 collections:
   projects:
     output: true
-
-theme: jekyll-theme-cayman
