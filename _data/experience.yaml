@@ -24,18 +24,18 @@ experiences:
   subtitle: "STM/AFM on 2D materials"
   category: "work"
 
-- place: "Universität Stuttgart"
-  time: "Oct 2015 - Nov 2017"
-  title: "M.Sc. Physics"
-  subtitle: "Condensed matter physics"
-  category: "school"
-
 - place: "1. Physikalisches Institut"
   time: "Feb-Jun 2016"
   title: "Research Assistant"
   subtitle: "Microwave Lab"
   category: "work"
 
+- place: "Universität Stuttgart"
+  time: "Oct 2015 - Nov 2017"
+  title: "M.Sc. Physics"
+  subtitle: "Condensed matter physics"
+  category: "school"
+  
 - place: "IIT, Roorkee"
   time: "Winter 2013"
   title: "Intern"
