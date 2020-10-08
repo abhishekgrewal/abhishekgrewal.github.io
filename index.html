@@ -6,11 +6,11 @@ title: Personal Webpage
 <div class="docs-section" id="bio">
   <h4>Bio</h4>
   <p>
-  I am a Ph.D. student in the <a href="https://www.fkf.mpg.de/3732/40_Kern">Nanoscale Science Department</a> at the <a href="https://www.fkf.mpg.de/en">Max Planck Institute for Solid State Research</a> advised by Prof. Klaus Kern, and Dr. Klaus Kuhnke.  My research interests lie at the intersection of nanooptics, scanning probe microscopy, and exciton-plasmon dynamics. I am passionate about experimental condensed matter physics, single molecule optical spectroscopy, and science outreach.
+  I am a Ph.D. student in the <a href="https://www.fkf.mpg.de/3732/40_Kern">Nanoscale Science Department</a> at the <a href="https://www.fkf.mpg.de/en">Max Planck Institute for Solid State Research</a> advised by Klaus Kern, and Klaus Kuhnke.  My research interests lie at the intersection of nanooptics, scanning probe microscopy, and exciton-plasmon dynamics. I try to understand dynamics of luminescence processes from single molecules.
   </p>
   
   <p>
-  I spent the winter of 2020 at <a href="http://www2.riken.jp/Kimlab/">Solid and Interface Science Laboratory</a> at the <a href="https://www.riken.jp/en/">RIKEN (理化学研究所)</a> studying single molecule electroluminescence and photoluminescence advised by Dr. Yousoo Kim, and Dr. Hiroshi Imada.
+    I am passionate about experimental physics, DIY electronics, and science outreach.
   </p>
 </div>
 
@@ -94,79 +94,6 @@ title: Personal Webpage
   </div>
 </div>
 
-<!-- ========== PROJECTS ========== -->
-<div class="docs-section" id="projects">
-  <h4>Projects</h4>
-
-  <ul class="tab-nav">
-    <li><div class="button active" data-ref="#projects-selected">Selected</div></li>
-    <li><div class="button" data-ref="#projects-all">All</div></li>
-  </ul>
-
-  <div class="tab-content">
-    <div class="tab-pane active" id="projects-selected">
-      {% assign selected_projects = site.data.projects.projects | where: "selected", "y" %}
-      {% for project in selected_projects %}
-        {% assign index_modulo = forloop.index0 | modulo:3 %}
-        {% if index_modulo == 0 %}
-          <div class="row">
-        {% endif %}
-
-          <div class="four columns">
-            <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
-                <div class="project-caption">
-                  <b>{{ project.title }}</b> <br/>
-                  {{ project.subtitle }}
-                </div>
-
-            </div>
-          </div>
-
-        {% if index_modulo == 2 %}
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
-
-    <div class="tab-pane" id="projects-all">
-      {% for project in site.data.projects.projects %}
-        {% assign index_modulo = forloop.index0 | modulo:3 %}
-        {% if index_modulo == 0 %}
-          <div class="row">
-        {% endif %}
-
-          <div class="four columns">
-            <div class="project-container">
-
-                <div class="project-image-container">
-                  <a href="{{ project.url }}">
-                    <img src="{{ project.thumbnail }}" class="u-max-full-width" />
-                  </a>
-                </div>
-
-                <div class="project-caption">
-                  <b>{{ project.title }}</b> <br/>
-                  {{ project.subtitle }}
-                </div>
-
-            </div>
-          </div>
-
-        {% if index_modulo == 2 %}
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
-  </div>
-
-</div>
 
 <!-- ========== RESUME ========== -->
 <div class="docs-section" id="resume">
