@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Atomic-Scale Dynamics Probed by Photon Correlations"
+    authors: "Rosławska, A.<sup>‡</sup>, Leon, C. C.<sup>‡</sup>, <b>Grewal, A.</b>, Merino, P., Kuhnke, K., and Kern, K."
+    venue: "ACS Nano 2020, 14 (6), 6366–6375"
+    paper_pdf: "https://pubs.acs.org/doi/abs/10.1021/acsnano.0c03704"
+    selected: y
+
   - title: "Probing the Magnetism of Topological End States in 5 Armchair Graphene Nanoribbons"
     authors: "Lawrence, J., Brandimarte, P., Berdonces-Layunta, A., Mohammed, M. S. G., <b>Grewal, A.</b>, Leon, C. C., Sánchez-Portal, D., and de Oteyza, D. G."
     venue: "ACS Nano 2020, 14 (4), 4499-4508"
