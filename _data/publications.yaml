@@ -1,7 +1,7 @@
 papers:
 
   - title: "Testing for Arbitrary Interference on Experimentation Platforms."
-    authors: "Rosławska, A.<sup>‡</sup>, Leon, C. C.<sup>‡</sup>, <b>Grewal, A.</b>, Merino, P., Kuhnke K., and Kern, K."
+    authors: "Roslawska, A.<sup>‡</sup>, Leon, C. C.<sup>‡</sup>, <b>Grewal, A.</b>, Merino, P., Kuhnke K., and Kern, K."
     venue: "<a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.0c03704"><i>ACS Nano<i/> 2020, 14 (6), 6366-6375</a>"
     paper_pdf: "/assets/publications/2019_biometrika/paper.pdf"
     selected: y
