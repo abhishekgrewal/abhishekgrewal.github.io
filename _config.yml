@@ -7,5 +7,4 @@ collections:
   projects:
     output: true
     
-    plugins:
-  - jekyll-seo-tag
+    plugins:  jekyll-seo-tag
