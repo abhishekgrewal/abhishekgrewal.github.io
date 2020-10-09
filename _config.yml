@@ -6,3 +6,6 @@ baseurl:
 collections:
   projects:
     output: true
+    
+    plugins:
+  - jekyll-seo-tag
