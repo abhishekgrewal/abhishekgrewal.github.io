@@ -35,12 +35,6 @@ experiences:
   title: "M.Sc. Physics"
   subtitle: "Condensed matter physics"
   category: "school"
-  
-- place: "IIT, Roorkee"
-  time: "Winter 2013"
-  title: "Intern"
-  subtitle: "Thin film growth <br/> SQUID"
-  category: "work"
 
 - place: "University of Delhi"
   time: "Sep 2014 - Feb 2015"
@@ -48,6 +42,12 @@ experiences:
   subtitle: "Phase transitions <br/> strongly-correlated bosons"
   category: "work"
 
+- place: "IIT, Roorkee"
+  time: "Winter 2013"
+  title: "Intern"
+  subtitle: "Thin film growth <br/> SQUID"
+  category: "work"
+  
 - place: "University of Delhi"
   time: "Aug 2012 - May 2015"
   title: "B.Sc. Physics"
