@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Gold Chain Formation via Local Lifting of Surface Reconstruction by Hot Electron Injection on H2(D2)/Au(111)"
+    authors: "Merino, P., Rosławska, A., <b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., and Kern, K."
+    venue: "ACS Nano 2020, 14(11), 15241–15247"
+    paper_pdf: "https://pubs.acs.org/doi/abs/10.1021/acsnano.0c05507"
+    selected: n
+    
   - title: "Atomic-Scale Dynamics Probed by Photon Correlations"
     authors: "Rosławska, A.<sup>‡</sup>, Leon, C. C.<sup>‡</sup>, <b>Grewal, A.</b>, Merino, P., Kuhnke, K., and Kern, K."
     venue: "ACS Nano 2020, 14 (6), 6366–6375"
