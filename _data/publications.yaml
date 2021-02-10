@@ -1,5 +1,10 @@
 papers:
-
+  - title: "Gigahertz frame rate imaging of charge-injection dynamics in a molecular light source"
+    authors: "Rosławska, A., Merino, P., Leon, C. C., <b>Grewal, A.</b>, Etzkorn M., Kuhnke, K., and Kern, K."
+    venue: "arXiv:2012.09566"
+    paper_pdf: "https://arxiv.org/abs/2012.09566"
+    selected: y
+    
   - title: "Gold Chain Formation via Local Lifting of Surface Reconstruction by Hot Electron Injection on H2(D2)/Au(111)"
     authors: "Merino, P., Rosławska, A., <b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., and Kern, K."
     venue: "ACS Nano 2020, 14(11), 15241–15247"
