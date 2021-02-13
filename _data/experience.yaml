@@ -33,7 +33,7 @@ experiences:
 - place: "Universität Stuttgart"
   time: "Oct 2015 - Nov 2017"
   title: "M.Sc. Physics"
-  subtitle: "Condensed matter physics"
+  subtitle: "Experimental physics"
   category: "school"
 
 - place: "University of Delhi"
@@ -45,7 +45,7 @@ experiences:
 - place: "IIT, Roorkee"
   time: "Winter 2013"
   title: "Intern"
-  subtitle: "Thin film growth <br/> SQUID"
+  subtitle: "Thin film growth <br/> PLD"
   category: "work"
   
 - place: "University of Delhi"
