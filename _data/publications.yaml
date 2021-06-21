@@ -1,4 +1,11 @@
 papers:
+
+  - title: "Local stiffness and work function variations of hexagonal boron nitride on Cu(111)"
+    authors: "<b>Grewal, A.</b>, Wang, Y., Münks, M., Kern, K., and Ternes, M."
+    venue: "Beilstein J. Nanotechnol. 2021, 12, 559–565"
+    paper_pdf: "https://doi.org/10.3762/bjnano.12.46"
+    selected: n
+  
   - title: "Atomic-scale structural fluctuations of a plasmonic cavity"
     authors: "Rosławska, A., Merino, P., <b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., and Kern, K."
     venue: "arXiv:2102.11671"
