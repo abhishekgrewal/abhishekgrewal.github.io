@@ -8,14 +8,14 @@ papers:
   
   - title: "Atomic-scale structural fluctuations of a plasmonic cavity"
     authors: "Rosławska, A., Merino, P., <b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., and Kern, K."
-    venue: "arXiv:2102.11671"
-    paper_pdf: "https://arxiv.org/abs/2102.11671"
+    venue: "Nano Lett. 2021, 21(17), 7221–7227"
+    paper_pdf: "https://pubs.acs.org/doi/10.1021/acs.nanolett.1c02207"
     selected: n
     
   - title: "Gigahertz frame rate imaging of charge-injection dynamics in a molecular light source"
     authors: "Rosławska, A., Merino, P., Leon, C. C., <b>Grewal, A.</b>, Etzkorn M., Kuhnke, K., and Kern, K."
-    venue: "arXiv:2012.09566"
-    paper_pdf: "https://arxiv.org/abs/2012.09566"
+    venue: "Nano Lett. 2021, 21(11), 4577–4583"
+    paper_pdf: "https://pubs.acs.org/doi/full/10.1021/acs.nanolett.1c00328"
     selected: y
     
   - title: "Gold Chain Formation via Local Lifting of Surface Reconstruction by Hot Electron Injection on H2(D2)/Au(111)"
