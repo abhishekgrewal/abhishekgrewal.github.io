@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Single molecule fluorescence and phosphorescence studies using a scanning tunneling microscope"
+    authors: "Grewal, A."
+    venue: "Doctoral thesis"
+    thesis: "/assets/publications/EPFL_TH9639.pdf"
+    selected: n
+
   - title: "Anionic character of the conduction band of sodium chloride"
     authors: "Leon, C. C.<sup>‡</sup>, <b>Grewal, A.</b><sup>‡</sup>, Kuhnke, K., Kern, K., and Gunnarsson, O."
     venue: "Nat Commun 2022, 13, 981"
