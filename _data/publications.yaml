@@ -6,17 +6,17 @@ papers:
     paper_pdf: "https://pubs.acs.org/doi/full/10.1021/acsnano.2c12447"
     selected: n
 
-  - title: "Single molecule fluorescence and phosphorescence studies using a scanning tunneling microscope"
-    authors: "Grewal, A."
-    venue: "Doctoral thesis"
-    thesis: "/assets/publications/EPFL_TH9639.pdf"
-    selected: n
-
   - title: "Anionic character of the conduction band of sodium chloride"
     authors: "Leon, C. C.<sup>‡</sup>, <b>Grewal, A.</b><sup>‡</sup>, Kuhnke, K., Kern, K., and Gunnarsson, O."
     venue: "Nat Commun 2022, 13, 981"
     paper_pdf: "https://doi.org/10.1038/s41467-022-28392-8"
     selected: y
+    
+  - title: "Single molecule fluorescence and phosphorescence studies using a scanning tunneling microscope"
+    authors: "Grewal, A."
+    venue: "Doctoral thesis"
+    thesis: "/assets/publications/EPFL_TH9639.pdf"
+    selected: n
     
   - title: "Local stiffness and work function variations of hexagonal boron nitride on Cu(111)"
     authors: "<b>Grewal, A.</b>, Wang, Y., Münks, M., Kern, K., and Ternes, M."
