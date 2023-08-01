@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Character of Electronic States in the Transport Gap of Molecules on Surfaces"
+    authors: "<b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., Kern, K., and Gunnarsson, O."
+    venue: "ACS Nano 2023, 17(14), 13176–13184"
+    paper_pdf: "https://pubs.acs.org/doi/full/10.1021/acsnano.2c12447"
+    selected: n
+
   - title: "Single molecule fluorescence and phosphorescence studies using a scanning tunneling microscope"
     authors: "Grewal, A."
     venue: "Doctoral thesis"
