@@ -4,7 +4,7 @@ papers:
     authors: "<b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., Kern, K., and Gunnarsson, O."
     venue: "ACS Nano 2023, 17(14), 13176–13184"
     paper_pdf: "https://pubs.acs.org/doi/full/10.1021/acsnano.2c12447"
-    selected: n
+    selected: y
 
   - title: "Anionic character of the conduction band of sodium chloride"
     authors: "Leon, C. C.<sup>‡</sup>, <b>Grewal, A.</b><sup>‡</sup>, Kuhnke, K., Kern, K., and Gunnarsson, O."
