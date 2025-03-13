@@ -1,9 +1,15 @@
 experiences:
 
+- place: "Quantum Machines"
+  time: "2025 -"
+  title: "Validation Engineer"
+  subtitle: "System and end-to-end validation for quantum control applications"
+  category: "work"
+
 - place: "Advantest"
   time: "2023 - 2024"
   title: "Metrologist"
-  subtitle: "Yield/Quality management at automatic test equipment"
+  subtitle: "Yield/Reliability & EMC management for automated test equipment"
   category: "work"
 
 - place: "MPI FKF"
