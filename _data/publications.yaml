@@ -1,5 +1,9 @@
 papers:
-
+  - title: "Scanning Tunneling Microscopy for Molecules: Effects of Electron Propagation into Vacuum"
+    authors: "<b>Grewal, A.</b>, Imada, H., Miwa, K., Imai-Imada, M., Kimura, K., Jaculbia, R., Kuhnke, K., Kern, K., Kim, Y."
+    venue: "arXiv:2502.10150"
+    paper_pdf: "https://arxiv.org/pdf/2502.10150"
+    selected: y
   - title: "Scanning Tunneling Microscopy for Molecules: Effects of Electron Propagation into Vacuum"
     authors: "<b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., Kern, K., and Gunnarsson, O."
     venue: "ACS Nano 2024, 18(19), 12158–12167"
