@@ -19,7 +19,7 @@ experiences:
   category: "work"
   
 - place: "SISL, RIKEN"
-  time: "Jan 2020 - August 2020"
+  time: "2020"
   title: "Visiting Researcher"
   subtitle: "Single molecule EL and PL"
   category: "work"
@@ -31,25 +31,25 @@ experiences:
   category: "school"
 
 - place: "MPI FKF"
-  time: "August 2016 - Nov 2017"
+  time: "2017"
   title: "Research Assistant"
   subtitle: "STM/AFM on 2D materials"
   category: "work"
 
 - place: "1. Physikalisches Institut"
-  time: "Feb-Jun 2016"
+  time: "Summer 2016"
   title: "Research Assistant"
   subtitle: "Microwave Lab"
   category: "work"
 
 - place: "Universität Stuttgart"
-  time: "Oct 2015 - Nov 2017"
+  time: "2016 - 2017"
   title: "M.Sc. Physics"
   subtitle: "Experimental physics"
   category: "school"
 
 - place: "University of Delhi"
-  time: "Sep 2014 - Feb 2015"
+  time: "Winter 2015"
   title: "Research Assistant"
   subtitle: "Phase transitions <br/> Strongly-correlated bosons"
   category: "work"
@@ -61,7 +61,7 @@ experiences:
   category: "work"
   
 - place: "University of Delhi"
-  time: "Aug 2012 - May 2015"
+  time: "2012 - 2015"
   title: "B.Sc. Physics"
   subtitle: "First Class Honours"
   category: "school"
