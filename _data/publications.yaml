@@ -1,32 +1,38 @@
 papers:
 
+  - title: "Probing Up-conversion Electroluminescence of Decoupled Porphyrin Molecules in a Plasmonic Nanocavity"
+    authors: "Zheng L-Q., Costa FJR, <b>Grewal, A.</b>, Wang R., Wang F., Li W., Rosławska A., Kuhnke K., Kern K."
+    venue: "ACS Nano (2026) 20 (22): 15973–15981"
+    paper_pdf: "https://doi.org/10.1021/acsnano.5c22306"
+    selected: n
+
   - title: "Scanning Tunneling Microscopy for Molecules: Manipulating Electron Transport through the Conduction Gap by varying Buffer Layer"
     authors: "<b>Grewal, A.</b>, Leon, C. C., and Gunnarsson, O."
-    venue: "arXiv:2404.11956v2"
-    paper_pdf: "https://arxiv.org/pdf/2404.11956"
+    venue: "ACS Phys. Chem Au (2025) 5 (6): 599–608"
+    paper_pdf: "https://pubs.acs.org/apcach/article/5/6/599/3732908"
     selected: n
   
   - title: "Single-Molecule Phosphorescence and Intersystem Crossing in a Coupled Exciton Plasmon System"
     authors: "<b>Grewal, A.</b>, Imada, H., Miwa, K., Imai-Imada, M., Kimura, K., Jaculbia, R., Kuhnke, K., Kern, K. and Kim, Y."
-    venue: "ACS Nano 2025, 19 (26), 23796−23805"
+    venue: "ACS Nano (2025) 19 (26): 23796–23805"
     paper_pdf: "https://pubs.acs.org/doi/full/10.1021/acsnano.5c04193"
     selected: y
 
   - title: "Charge Transfer of Metal Porphyrins on a NaCl Thin Film Observed by Scanning Tunneling Microscopy in the Transport Gap"
     authors: "Zheng, L-Q., <b>Grewal, A.</b>, Anggara, K., Costa, F. J. R., Leon, C. C., Kuhnke K. and Kern, K."
-    venue: "ACS Nano 2025, 19 (19), 18357-18363"
+    venue: "ACS Nano (2025) 19 (19): 18357–18363"
     paper_pdf: "https://pubs.acs.org/doi/full/10.1021/acsnano.5c01235"
     selected: n
     
   - title: "Scanning Tunneling Microscopy for Molecules: Effects of Electron Propagation into Vacuum"
     authors: "<b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., Kern, K., and Gunnarsson, O."
-    venue: "ACS Nano 2024, 18(19), 12158–12167"
+    venue: "ACS Nano (2024) 18 (19): 12158–12167"
     paper_pdf: "https://doi.org/10.1021/acsnano.3c12315"
     selected: n
 
   - title: "Character of Electronic States in the Transport Gap of Molecules on Surfaces"
     authors: "<b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., Kern, K., and Gunnarsson, O."
-    venue: "ACS Nano 2023, 17(14), 13176–13184"
+    venue: "ACS Nano (2023) 17 (14): 13176–13184"
     paper_pdf: "https://doi.org/10.1021/acsnano.2c12447"
     selected: y
 
@@ -50,49 +56,49 @@ papers:
   
   - title: "Atomic-scale structural fluctuations of a plasmonic cavity"
     authors: "Rosławska, A., Merino, P., <b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., and Kern, K."
-    venue: "Nano Lett. 2021, 21(17), 7221–7227"
+    venue: "Nano Lett. (2021) 21 (17): 7221–7227"
     paper_pdf: "https://doi.org/10.1021/acs.nanolett.1c02207"
     selected: n
     
   - title: "Gigahertz frame rate imaging of charge-injection dynamics in a molecular light source"
     authors: "Rosławska, A., Merino, P., Leon, C. C., <b>Grewal, A.</b>, Etzkorn M., Kuhnke, K., and Kern, K."
-    venue: "Nano Lett. 2021, 21(11), 4577–4583"
+    venue: "Nano Lett. (2021) 21 (11): 4577–4583"
     paper_pdf: "https://doi.org/10.1021/acs.nanolett.1c00328"
     selected: n
     
   - title: "Gold Chain Formation via Local Lifting of Surface Reconstruction by Hot Electron Injection on H2(D2)/Au(111)"
     authors: "Merino, P., Rosławska, A., <b>Grewal, A.</b>, Leon, C. C., Kuhnke, K., and Kern, K."
-    venue: "ACS Nano 2020, 14(11), 15241–15247"
+    venue: "ACS Nano (2020) 14 (11): 15241–15247"
     paper_pdf: "https://doi.org/10.1021/acsnano.0c05507"
     selected: n
     
   - title: "Atomic-Scale Dynamics Probed by Photon Correlations"
     authors: "Rosławska, A.<sup>‡</sup>, Leon, C. C.<sup>‡</sup>, <b>Grewal, A.</b>, Merino, P., Kuhnke, K., and Kern, K."
-    venue: "ACS Nano 2020, 14 (6), 6366–6375"
+    venue: "ACS Nano (2020) 14 (6): 6366–6375"
     paper_pdf: "https://doi.org/10.1021/acsnano.0c03704"
     selected: y
 
   - title: "Probing the Magnetism of Topological End States in 5 Armchair Graphene Nanoribbons"
     authors: "Lawrence, J., Brandimarte, P., Berdonces-Layunta, A., Mohammed, M. S. G., <b>Grewal, A.</b>, Leon, C. C., Sánchez-Portal, D., and de Oteyza, D. G."
-    venue: "ACS Nano 2020, 14 (4), 4499-4508"
+    venue: "ACS Nano (2020) 14 (4): 4499–4508"
     paper_pdf: "https://doi.org/10.1021/acsnano.9b10191"
     selected: n
 
   - title: "Single Photon Emission from a Plasmonic Light Source Driven by a Local Field-Induced Coulomb Blockade."
     authors: "Leon, C. C., Gunnarsson, O., de Oteyza, D. G., Rosławska, A., Merino, P., <b>Grewal, A.</b>, Kuhnke, K., and Kern, K."
-    venue: "ACS Nano 2020, 14 (4), 4216–4223"
+    venue: "ACS Nano (2020) 14 (4): 4216–4223"
     paper_pdf: "https://pubs.acs.org/doi/10.1021/acsnano.9b09299"
     selected: n
 
   - title: "A Single Hydrogen Molecule as an Intensity Chopper in an Electrically Driven Plasmonic Nanocavity"
     authors: "Merino P., Rosławska, A., Leon, C. C., <b>Grewal, A.</b>, Große, C., Gonzalez, C., Kuhnke, K., and Kern, K."
-    venue: "Nano Lett. 2019, 19 (1), 235–241"
+    venue: "Nano Lett. (2019) 19 (1): 235–241"
     paper_pdf: "https://pubs.acs.org/doi/10.1021/acs.nanolett.8b03753"
     selected: n
 
   - title: "Photon super bunching from a generic tunnel-junction"
     authors: "Leon, C. C.<sup>‡</sup>, Rosławska, A.<sup>‡</sup>, <b>Grewal, A.</b>, Gunnarsson, O., Kuhnke, K., and Kern, K."
-    venue: "Sci. Adv. 2019, 5: eaav4986"
+    venue: "Sci. Adv. 5, eaav4986 (2019)"
     paper_pdf: "https://advances.sciencemag.org/content/5/5/eaav4986?intcmp=trendmd-adv"
     slides: "/assets/publications/dpg 2003042019.pdf"
     selected: y
